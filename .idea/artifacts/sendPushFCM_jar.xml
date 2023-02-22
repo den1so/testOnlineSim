@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sendPushFCM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sendPushFCM_jar</output-path>
+    <root id="archive" name="sendPushFCM.jar">
+      <element id="module-output" name="sendPushFCM" />
+    </root>
+  </artifact>
+</component>
